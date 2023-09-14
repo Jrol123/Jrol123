@@ -1,6 +1,8 @@
-# Artemii, the III-rd
+# Welcome, fellow coder!
 
-## IDK what're you doing here, but welcome!
+### Right now i'm a 2-nd year student at the FEFU. Studying at the "сквозные цифровые технологии".
+
+Feel free to invite me to projects!
 
 <!---
 Jrol123/Jrol123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

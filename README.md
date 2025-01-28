@@ -1,6 +1,6 @@
 # Welcome, fellow coder!
 
-### Right now i'm a 2-nd year student at the FEFU. Studying at the "сквозные цифровые технологии".
+### Right now i'm a 3-rd year student at the FEFU. Studying at the "Сквозные цифровые технологии".
 
 Feel free to invite me to projects!
 
